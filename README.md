@@ -1,3 +1,7 @@
+정품인증(https://pcwindows.tistory.com/362)
+
+
+
 <p align="center"><img src="https://raw.githubusercontent.com/massgravel/mas-docs/main/logo.png" alt="MAS Logo" height="128"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
